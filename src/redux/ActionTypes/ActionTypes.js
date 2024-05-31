@@ -1,0 +1,7 @@
+export const ACTION_TYPES = {
+    //progress
+    PROGRESS_BAR_STATE: "PROGRESS_BAR_STATE",
+
+    //generate-posts
+    GENERATE_POSTS_FOR_SOCIAL_MEDIA: "GENERATE_POSTS_FOR_SOCIAL_MEDIA",
+}
